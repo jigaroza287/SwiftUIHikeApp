@@ -1,5 +1,12 @@
 # **SwiftUI Hike App**
 
+![Explore](/Hike/Screenshots/Screen1.png?raw=true "Let's Explore")
+
+![Explore more](/Hike/Screenshots/Screen2.png?raw=true "Let's Explore More")
+
+![Hike](/Hike/Screenshots/Screen3.png?raw=true "Let's Hike")
+
+
 ## **Introduction**
 
 This is a small SwiftUI sample project demonstrating basic concepts of SwiftUI with no external dependencies. The project covers fundamental aspects of SwiftUI, including UI components, animations, and app customization.
