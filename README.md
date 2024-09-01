@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 **2. Open the project in Xcode:**
 
 - Navigate to the project directory and open the .xcodeproj file.
-- Ensure you have Xcode 12 or later installed.
+- Ensure you have Xcode 15 or later installed.
 
 **3. Build and run the project:**
 
