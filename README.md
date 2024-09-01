@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 
 **1. Clone the repository:**
 
-`git clone https://github.com/username/swiftui-sample-project.git`
+`git clone https://github.com/jigaroza287/SwiftUIHikeApp.git`
 
 **2. Open the project in Xcode:**
 
