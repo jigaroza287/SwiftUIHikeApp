@@ -1,11 +1,5 @@
 # **SwiftUI Hike App**
 
-![Explore](/Hike/Screenshots/Screen1.png?raw=true "Let's Explore")
-
-![Explore more](/Hike/Screenshots/Screen2.png?raw=true "Let's Explore More")
-
-![Hike](/Hike/Screenshots/Screen3.png?raw=true "Let's Hike")
-
 
 ## **Introduction**
 
